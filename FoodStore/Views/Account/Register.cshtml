@@ -1,0 +1,56 @@
+﻿@using FoodStore.Models.ViewModel
+@model RegisterVM
+
+@{
+    ViewData["Title"] = "Đăng ký";
+}
+
+<div class="p-t-120 p-b-120">
+    <div class="row justify-content-center">
+        <div class="col-md-3">
+            <div class="card">
+                <div class="card-header text-center">
+                    <h4>@ViewData["Title"]</h4>
+                    <div class="card-body">
+                        <form asp-action="Register" method="post">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <div class="form-group">
+                                <label asp-for="Email">Email</label>
+                                <input asp-for="Email" class="form-control" />
+                                <span asp-validation-for="Email" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Username">Tài khoản</label>
+                                <input asp-for="Username" class="form-control" />
+                                <span asp-validation-for="Username" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Password">Mật khẩu</label>
+                                <input asp-for="Password" class="form-control" type="password" />
+                                <span asp-validation-for="Password" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="PasswordConfirm">Xác nhận mật khẩu</label>
+                                <input asp-for="PasswordConfirm" class="form-control" type="password" />
+                                <span asp-validation-for="PasswordConfirm" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <input type="submit" value="Đăng ký" class="btn btn-primary" />
+                            </div>
+                        </form>
+                    </div>
+                    <div class="card-footer text-center">
+                        <p class="mt-2">Bạn đã có tài khoản ? <a href="/account/login">Đăng nhập tại đây</a></p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

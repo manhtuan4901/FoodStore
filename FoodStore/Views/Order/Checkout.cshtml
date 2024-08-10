@@ -1,0 +1,47 @@
+﻿@model FoodStore.Models.ViewModel.CheckoutVM
+
+<div class="p-t-120 p-b-120">
+    <div class="container mt-3">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <form asp-action="Checkout" method="post">
+                    <div class="mb-3">
+                        <label for="fullname" class="form-label">Họ tên</label>
+                        <input asp-for="UserInfo.Fullname" type="text" class="form-control" id="fullname" required />
+                    </div>
+                    <div class="mb-3">
+                        <label for="phone" class="form-label">Số điện thoại</label>
+                        <input asp-for="UserInfo.Phone" type="text" class="form-control" id="phone" required />
+                    </div>
+                    <div class="mb-3">
+                        <label for="address" class="form-label">Địa chỉ</label>
+                        <input asp-for="UserInfo.Address" type="text" class="form-control" id="address" required />
+                    </div>
+
+                    <h3>Tóm tắt đơn hàng</h3>
+                    <div class="list-group">
+                        @foreach (var item in Model.CartItems)
+                        {
+                            <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+                                <div class="d-flex w-100 justify-content-between">
+                                    <h5 class="mb-1">@item.Product.Name</h5>
+                                    <small>Số lượng: @item.Quantity</small>
+                                </div>
+                                <p class="mb-1">Giá: @String.Format("{0:C0} VND", item.TotalPrice)</p>
+                            </a>
+                        }
+                    </div>
+                    <h4 class="mt-3">Tổng tiền: @String.Format("{0:C0} VND", Model.TotalAmount)</h4>
+
+                    <button type="submit" class="btn btn-primary mt-4">đặt hàng</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

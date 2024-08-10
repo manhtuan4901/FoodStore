@@ -1,0 +1,1121 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FoodStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FoodStore.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\css\\admin.css",
+      "PackagePath": "staticwebassets\\css\\admin.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\css\\util.css",
+      "PackagePath": "staticwebassets\\css\\util.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\js\\admin.js",
+      "PackagePath": "staticwebassets\\js\\admin.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\js\\filter.js",
+      "PackagePath": "staticwebassets\\js\\filter.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\js\\map-custom.js",
+      "PackagePath": "staticwebassets\\js\\map-custom.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\js\\newFile.js",
+      "PackagePath": "staticwebassets\\js\\newFile.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\js\\slick-custom.js",
+      "PackagePath": "staticwebassets\\js\\slick-custom.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Montserrat\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Montserrat\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Montserrat\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Montserrat\\Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Montserrat\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Montserrat\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Montserrat\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Montserrat\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Montserrat\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Montserrat\\Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Montserrat\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Montserrat\\Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Montserrat\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Montserrat\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Montserrat\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Montserrat\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Montserrat\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Montserrat\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Montserrat\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Montserrat\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Montserrat\\Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Montserrat\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Montserrat\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Montserrat\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Montserrat\\Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Montserrat\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Montserrat\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Montserrat\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Montserrat\\Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Montserrat\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Montserrat\\Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Montserrat\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Montserrat\\Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Montserrat\\OFL.txt"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\PlayfairDisplay\\OFL.txt",
+      "PackagePath": "staticwebassets\\lib\\fonts\\PlayfairDisplay\\OFL.txt"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\PlayfairDisplay\\PlayfairDisplay-Black.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\PlayfairDisplay\\PlayfairDisplay-Black.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\PlayfairDisplay\\PlayfairDisplay-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\PlayfairDisplay\\PlayfairDisplay-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\PlayfairDisplay\\PlayfairDisplay-Bold.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\PlayfairDisplay\\PlayfairDisplay-Bold.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\PlayfairDisplay\\PlayfairDisplay-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\PlayfairDisplay\\PlayfairDisplay-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\PlayfairDisplay\\PlayfairDisplay-Italic.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\PlayfairDisplay\\PlayfairDisplay-Italic.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\PlayfairDisplay\\PlayfairDisplay-Regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\PlayfairDisplay\\PlayfairDisplay-Regular.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\Poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\Poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\lib\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\lib\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\lib\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\lib\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\lib\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\lib\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\lib\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\lib\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\lib\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\lib\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\lib\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\lib\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\fonts\\linearicons-v1.0.0\\icon-font.min.css",
+      "PackagePath": "staticwebassets\\lib\\fonts\\linearicons-v1.0.0\\icon-font.min.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\images\\730341mau-ds-sv-dang-ky-hoc-lai-theo-yeu-cau-2-4.xls",
+      "PackagePath": "staticwebassets\\lib\\images\\730341mau-ds-sv-dang-ky-hoc-lai-theo-yeu-cau-2-4.xls"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\images\\burer.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\burer.jpg"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\images\\icons\\favicon.png",
+      "PackagePath": "staticwebassets\\lib\\images\\icons\\favicon.png"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\images\\icons\\icon-close.png",
+      "PackagePath": "staticwebassets\\lib\\images\\icons\\icon-close.png"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\images\\icons\\icon-close2.png",
+      "PackagePath": "staticwebassets\\lib\\images\\icons\\icon-close2.png"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\images\\icons\\icon-email.png",
+      "PackagePath": "staticwebassets\\lib\\images\\icons\\icon-email.png"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\images\\icons\\icon-heart-01.png",
+      "PackagePath": "staticwebassets\\lib\\images\\icons\\icon-heart-01.png"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\images\\icons\\icon-heart-02.png",
+      "PackagePath": "staticwebassets\\lib\\images\\icons\\icon-heart-02.png"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\images\\icons\\icon-next.png",
+      "PackagePath": "staticwebassets\\lib\\images\\icons\\icon-next.png"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\images\\icons\\icon-pay-01.png",
+      "PackagePath": "staticwebassets\\lib\\images\\icons\\icon-pay-01.png"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\images\\icons\\icon-pay-02.png",
+      "PackagePath": "staticwebassets\\lib\\images\\icons\\icon-pay-02.png"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\images\\icons\\icon-pay-03.png",
+      "PackagePath": "staticwebassets\\lib\\images\\icons\\icon-pay-03.png"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\images\\icons\\icon-pay-04.png",
+      "PackagePath": "staticwebassets\\lib\\images\\icons\\icon-pay-04.png"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\images\\icons\\icon-pay-05.png",
+      "PackagePath": "staticwebassets\\lib\\images\\icons\\icon-pay-05.png"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\images\\icons\\icon-prev.png",
+      "PackagePath": "staticwebassets\\lib\\images\\icons\\icon-prev.png"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\images\\icons\\logo-01.png",
+      "PackagePath": "staticwebassets\\lib\\images\\icons\\logo-01.png"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\images\\icons\\logo-02.png",
+      "PackagePath": "staticwebassets\\lib\\images\\icons\\logo-02.png"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\images\\icons\\logo-small.png",
+      "PackagePath": "staticwebassets\\lib\\images\\icons\\logo-small.png"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\images\\icons\\pin.png",
+      "PackagePath": "staticwebassets\\lib\\images\\icons\\pin.png"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\images\\nhahang.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\nhahang.jpg"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\images\\pasta.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\pasta.jpg"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\images\\pasta2.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\pasta2.jpg"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\images\\pizza.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\pizza.jpg"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\images\\product-01.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\product-01.jpg"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\images\\slide-01.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\slide-01.jpg"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\images\\slide-02.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\slide-02.jpg"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\images\\slide-03.jpg",
+      "PackagePath": "staticwebassets\\lib\\images\\slide-03.jpg"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\MagnificPopup\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\MagnificPopup\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\MagnificPopup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\MagnificPopup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\MagnificPopup\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\MagnificPopup\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\jqueryui\\external\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\jqueryui\\external\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\jqueryui\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\vendor\\jqueryui\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\jqueryui\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\vendor\\jqueryui\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\jqueryui\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\vendor\\jqueryui\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\jqueryui\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\vendor\\jqueryui\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\jqueryui\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\vendor\\jqueryui\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\jqueryui\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\vendor\\jqueryui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\jqueryui\\index.html",
+      "PackagePath": "staticwebassets\\lib\\vendor\\jqueryui\\index.html"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\jqueryui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\jqueryui\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\jqueryui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\jqueryui\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\jqueryui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\jqueryui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\jqueryui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\jqueryui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\jqueryui\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\jqueryui\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\jqueryui\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\jqueryui\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\jqueryui\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\jqueryui\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\jqueryui\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\jqueryui\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\lightbox2\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\lightbox2\\css\\lightbox.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\lightbox2\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\lightbox2\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\lightbox2\\images\\close.png",
+      "PackagePath": "staticwebassets\\lib\\vendor\\lightbox2\\images\\close.png"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\lightbox2\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\vendor\\lightbox2\\images\\loading.gif"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\lightbox2\\images\\next.png",
+      "PackagePath": "staticwebassets\\lib\\vendor\\lightbox2\\images\\next.png"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\lightbox2\\images\\prev.png",
+      "PackagePath": "staticwebassets\\lib\\vendor\\lightbox2\\images\\prev.png"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\lightbox2\\js\\lightbox-plus-jquery.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\lightbox2\\js\\lightbox-plus-jquery.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\lightbox2\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\lightbox2\\js\\lightbox.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\lightbox2\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\lightbox2\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\lightbox2\\js\\lightbox.min.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\lightbox2\\js\\lightbox.min.map"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\parallax100\\parallax100.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\parallax100\\parallax100.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\vendor\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\lib\\vendor\\slick\\config.rb"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\lib\\vendor\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\lib\\vendor\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\lib\\vendor\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\lib\\vendor\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\lib\\vendor\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\lib\\vendor\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\slick\\slick.css"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\slick\\slick.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\lib\\vendor\\slick\\slick.less"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\slick\\slick.min.js"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\lib\\vendor\\slick\\slick.scss"
+    },
+    {
+      "Id": "D:\\WorkPlace\\FoodStore\\FoodStore\\wwwroot\\lib\\vendor\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FoodStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FoodStore.props",
+      "PackagePath": "build\\FoodStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FoodStore.props",
+      "PackagePath": "buildMultiTargeting\\FoodStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FoodStore.props",
+      "PackagePath": "buildTransitive\\FoodStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

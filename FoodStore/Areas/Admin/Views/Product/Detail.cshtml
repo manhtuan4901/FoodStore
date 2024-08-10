@@ -1,0 +1,56 @@
+﻿@model FoodStore.Models.Product
+
+@{
+    ViewData["Title"] = "Detail";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container mt-5">
+    <h1>Chi tiết sản phẩm</h1>
+    <hr />
+    <div>
+        <h4>Product</h4>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Description)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Description)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Price)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Price)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Quantity)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Quantity)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Images)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.Images)
+            </dd>
+        </dl>
+    </div>
+    <div>
+        <a asp-controller="Product" asp-action="Edit" asp-area="Admin" asp-route-id="@Model.Id">
+            <button class="btn btn-warning">Sửa</button>
+        </a>
+        <a asp-action="Index">
+            <button class="btn btn-secondary">Trở lại</button>
+        </a>
+    </div>
+
+</div>

@@ -1,0 +1,56 @@
+﻿@using System.Web
+@using FoodStore.Models.ViewModel
+@model List<OrderWithUserDetails>
+
+<div class="p-t-140 p-b-120">
+    <div class="container">
+        <div class="container-fluid">
+            <div class="row px-xl-5">
+                <div class="col-lg d-flex align-items-stretch">
+                    <div class="card w-100">
+                        <div class="card-body">
+                            <div class="d-sm-flex d-block align-items-center justify-content-between mb-9">
+                                <div class="mb-3 mb-sm-0">
+                                    <h2 class="card-title fw-semibold">Đơn hàng</h2>
+                                </div>
+                            </div>
+                            <div class="row">
+                                @if (!string.IsNullOrEmpty(ViewBag.Message))
+                                {
+                                    <p>@ViewBag.Message</p>
+                                }
+                                else
+                                {
+                                    <table class="table table-hover">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Tên khách hàng</th>
+                                                <th scope="col">Số điện thoại</th>
+                                                <th scope="col">Địa chỉ</th>
+                                                <th scope="col">Chức năng</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            @foreach (var order in Model)
+                                            {
+                                                <tr>
+                                                    <td>@order.User.Fullname</td>
+                                                    <td>@order.User.Phone</td>
+                                                    <td>@order.User.Address</td>
+                                                    <td>
+                                                        <a asp-controller="Order" asp-action="Detail" asp-route-id="@order.Order.Id">Xem chi tiết</a>
+                                                    </td>
+                                                    
+                                                </tr>
+                                            }
+                                        </tbody>
+                                    </table>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
